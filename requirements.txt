@@ -9,12 +9,6 @@ pyyaml
 matplotlib
 seaborn
 streamlit
-torch
-transformers
 pillow
-pandas
-numpy
 plotly
 streamlit-lottie
-tqdm
-scikit-learn
